@@ -1,1 +1,1 @@
-# InvestorsChecklist
+# InvestmentChecklist
